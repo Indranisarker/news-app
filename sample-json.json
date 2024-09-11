@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles" : [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Linkin Park's new singer: The Emily Armstrong controversy explained",
+        "description": "Emily Armstrong was accused of supporting convicted rapist Danny Masterson. What's the real story?",
+        "url": "https://www.bbc.co.uk/news/articles/credy50z4j1o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/126b/live/e2e45080-6e99-11ef-8c1a-df523ba43a9a.jpg",
+        "publishedAt": "2024-09-09T18:37:16.1811604Z",
+        "content": "Linkin Park unveiled their new look on Thursday, 5 September, alongside a new single - The Emptiness Machine - and plans for a world tour.\r\nInitial reactions were positive.\r\n\"Armstrong certainly has … [+1330 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "In pictures: Kate's video offers glimpse of royal life in Norfolk",
+        "description": "The video message from the Princess of Wales gives us a glimpse of the Wales' home life in Norfolk.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy3dxjld4qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b4f4/live/196978d0-6ec5-11ef-8c1a-df523ba43a9a.jpg",
+        "publishedAt": "2024-09-09T17:52:13.6643886Z",
+        "content": "The Princess of Wales has spoken of her focus on being cancer-free in a new video message.\r\nKensington Palace has said the message was filmed in August in Norfolk by Will Warr, a freelance wedding vi… [+22 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Selena Gomez says she can't carry her own children",
+        "description": "The 32-year-old singer and actor says she is considering adoption or surrogacy.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5rkm4d3ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/188c/live/724586b0-6ec0-11ef-b253-652912eb2430.jpg",
+        "publishedAt": "2024-09-09T17:22:18.5881256Z",
+        "content": "Gomez has previously been open about about her diagnosis with lupus, an incurable autoimmune disease where the body's immune system becomes hyperactive and attacks normal tissue.\r\nSymptoms can be man… [+1213 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Beyoncé's Cowboy Carter locked out of Country Music Awards",
+        "description": "The star's country album is snubbed as the ceremony reveals its latest round of nominees.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2y84gpgp0o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a997/live/1b81a740-6ec1-11ef-8c1a-df523ba43a9a.jpg",
+        "publishedAt": "2024-09-09T16:37:16.1493387Z",
+        "content": "The star later apologised and reunited with his record label. \r\nLast year, his double album One Thing At A Time topped the US charts for 16 weeks and was nominated for album of the year at the Countr… [+682 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US veteran sees 'remarkable' progress after first eye transplant",
+        "description": "Aaron James has been able to resume normal life after receiving a partial-face and whole-eye transplant.",
+        "url": "https://www.bbc.co.uk/news/articles/c33nx82y8rjo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/815c/live/c58c30d0-6ec0-11ef-8c1a-df523ba43a9a.jpg",
+        "publishedAt": "2024-09-09T16:22:17.6185666Z",
+        "content": "A US military veteran who received the world's first whole-eye transplant has made significant progress a year later and has been able to resume his normal life, researchers say. \r\nAaron James, 46, a… [+1245 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Kate's latest message in full: 'Out of darkness, can come light'",
+        "description": "The Princess of Wales speaks of her focus on staying cancer free in an emotive message released by Kensington Palace.",
+        "url": "https://www.bbc.co.uk/news/articles/c79wp5eln9ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0988/live/978a2010-6ec1-11ef-8c1a-df523ba43a9a.jpg",
+        "publishedAt": "2024-09-09T16:07:13.2270567Z",
+        "content": "\"As the summer comes to an end, I cannot tell you what a relief it is to have finally completed my chemotherapy treatment.\r\nThe last nine months have been incredibly tough for us as a family. Life as… [+1528 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Catherine says she has completed chemotherapy treatment",
+        "description": "The Princess of Wales has completed her chemotherapy and says this year has been \"incredibly tough\".",
+        "url": "https://www.bbc.co.uk/news/articles/c1d7wk5d4ylo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1820/live/ed0a4e30-6ebb-11ef-b253-652912eb2430.jpg",
+        "publishedAt": "2024-09-09T15:37:13.3054845Z",
+        "content": "This latest update on Catherine's health sends a positive message about her progress, but there is a long road still to go.\r\nKensington Palace has indicated it is not possible at this stage to say wh… [+1594 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Kentucky I-75 shootings: Schools closed amid hunt for gunman",
+        "description": "Police have named 32-year-old Joseph A Couch as a suspect in shootings that injured five motorists along a major highway",
+        "url": "https://www.bbc.co.uk/news/articles/cy76lermkg4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1c79/live/4a9a9850-6e96-11ef-84a5-7f81c09ec94f.jpg",
+        "publishedAt": "2024-09-09T12:07:13.6071935Z",
+        "content": "Authorities warned local residents to be vigilant while the suspect is still at large.\r\nYou need to lock your doors, Kentucky State Police spokesperson Scottie Pennington said Sunday. If you have sec… [+830 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Typhoon Yagi collapses busy bridge in Vietnam",
+        "description": "Yagi, Asia's most powerful storm this year, has killed at least 59 people since it made landfall in Vietnam.",
+        "url": "https://www.bbc.co.uk/news/articles/cqxjn3w9228o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a6ea/live/9b4b3270-6e8f-11ef-b02d-c5f3b724a1ea.jpg",
+        "publishedAt": "2024-09-09T10:52:18.5738718Z",
+        "content": "Although it has weakened into a tropical depression, authorities have warned of more flooding and landslides as the storm moves westwards.\r\nIn the Yen Bai province, flood waters reached a metre (thre… [+898 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "International hunt for man who threw hot coffee on baby",
+        "description": "The man is accused of leaving the baby with severe burns requiring multiple surgeries.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8drzm09j0o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b195/live/7b98fd20-6e69-11ef-8c02-4f1100bc40a6.jpg",
+        "publishedAt": "2024-09-09T07:37:14.680537Z",
+        "content": "The infant was at a picnic with his family at a suburban park on 31 August, when witnesses say a strange man approached, emptying a flask on the child before fleeing on foot.\r\nThe baby was immediatel… [+1449 chars]"
+      }
+    ]
+  }

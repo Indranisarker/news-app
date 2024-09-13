@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Navbar() {
   return (
@@ -6,16 +7,16 @@ export default function Navbar() {
  <nav className="navbar">
     <div className="logo">
     <img src="news app.png" alt=""/>
-      <a href="#">News<span>Now</span></a>
+      <Link to="/general">News<span>Now</span></Link>
     </div>
     <ul className="nav-links">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">World</a></li>
-      <li><a href="#">Politics</a></li>
-      <li><a href="#">Business</a></li>
-      <li><a href="#">Sports</a></li>
-      <li><a href="#">Tech</a></li>
-      <li><a href="#">Entertainment</a></li>
+      <li><Link to="/general">Home</Link></li>
+      <li><Link to="/health">Health</Link></li>
+      <li><Link to="/business">Business</Link></li>
+      <li><Link to="/sports">Sports</Link></li>
+      <li><Link to="/technology">Tech</Link></li>
+      <li><Link to="/science">Science</Link></li>
+      <li><Link to="/entertainment">Entertainment</Link></li>
     </ul>
         <button type='button' className='nav-button'>Sign In</button>
   </nav>

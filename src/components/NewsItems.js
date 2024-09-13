@@ -3,7 +3,7 @@ import React from 'react'
 export default function NewsItems(props) {
   return (
     <div>
-      <div className="card" style={{ width: '18rem' }}>
+      <div className="card">
         <img src= {props.imageUrl} className="news-image" alt="..."/>
         <div className="card-body">
             <h5 className="card-title">{props.title}...</h5>

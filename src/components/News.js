@@ -21,7 +21,8 @@ export default function News(props) {
         let data = await fetch(url);
         let parseData = await data.json();
         setArticles(parseData.articles);
-        setTotalArticles(parseData.totalResults);
+        setTotalArticles(parseData.totalArticles);
+
         setLoading(false);
       } catch (error) {
         console.error("Error fetching news:", error);
@@ -39,14 +40,13 @@ export default function News(props) {
     if (page >= noOfPages) {
            return;
          }
-         setPage(page + 1);
       let url = `https://newsapi.org/v2/top-headlines?country=us&category=${props.category}&apiKey=2f7863a6210d43f481f078051702ec44&page=${page}&pageSize=${props.pageSize}`;
-     // setLoading(true);
+      setPage(page + 1);
       try {
         let data = await fetch(url);
         let parseData = await data.json();
         setArticles(articles.concat(parseData.articles));
-        setTotalArticles(parseData.totalResults);
+        setTotalArticles(parseData.totalArticles);
         setPage(page + 1);
         if (page >= noOfPages) {
           setLoading(false);
@@ -77,7 +77,7 @@ export default function News(props) {
 
   return (
     <>
-        <h1 className='text-center'>NewsNow - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
+        <h1 className='text-center' style={{ marginTop:'120px'}}>NewsNow - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
         {loading && <LoadingSpinner/>}
         <InfiniteScroll
           dataLength={articles.length}

@@ -1,7 +1,8 @@
 import Navbar from "./components/Navbar";
 import News from "./components/News";
+import SignIn from "./components/SignIn";
 import './css/style.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route, BrowserRouter } from 'react-router-dom';
 function App() {
   const pageSize = 12;
   return (
@@ -16,6 +17,7 @@ function App() {
       <Route exact path="/science" element={<News key='science' pageSize={pageSize} category="science" />} />
       <Route exact path="/technology" element={<News key='technology' pageSize={pageSize} category="technology" />} />
       <Route exact path="/entertainment" element={<News key='entertainment' pageSize={pageSize} category="entertainment" />} />
+      <Route exact path="/sign-in" element={<SignIn/>}/>
       </Routes>
       </BrowserRouter>
     </div>
